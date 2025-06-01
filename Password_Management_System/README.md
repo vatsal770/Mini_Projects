@@ -65,7 +65,7 @@ python main.py
 
 ## Sample Interaction Page:
 
-![Sample Run Screenshot](Password_Management_System/Sample_run.png)
+![Sample Run Screenshot](Sample_run.png)
 
 ---
 
