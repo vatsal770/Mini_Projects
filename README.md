@@ -38,4 +38,6 @@ Dual Mode: Explorer and Predictor
 
 Dataset Visualizer: Also includes a Jupyter Notebook (visualizer.ipynb) for Data analysis and preprocessing insights.
 
-![Sample Run](Sample_App.png)
+![Sample Run](Sample_App_Explorer.png)
+
+![Sample Run](Sample_App_Predictor.png)
