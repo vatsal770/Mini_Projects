@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 # Loading and preprocessing the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("House Explorer and Price Predictor/house_dataset.csv")
+    df = pd.read_csv("House Explorer and Price Predictor/Datasets/house_dataset.csv")
 
     # Drop particular columns as it contains duplicate data
     df.drop(columns=['POSTED_BY','UNDER_CONSTRUCTION','RERA'], inplace=True)
