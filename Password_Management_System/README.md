@@ -65,7 +65,7 @@ python main.py
 
 ## Sample Interaction Page:
 
-![Sample Run Screenshot](Sample_run.png)
+![Sample Run Screenshot](House Explorer and Price Predictor/Sample_App.png)
 
 ---
 
