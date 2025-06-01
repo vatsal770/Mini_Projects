@@ -27,14 +27,14 @@ A Streamlit-based web application that:
 
 - Predicts house prices using Linear Regression based on user input.
 
-#### 🔹 Features:
+#### Features:
 Dual Mode: Explorer and Predictor
 
 - Data cleaning and anomaly filtering
 
-- Live price prediction using sklearn’s LinearRegression
+- Live price prediction using Regression techniques
 
-- Interactive UI with filters for BHK, Area, City, Price
+- Interactive UI with filters for BHK, Area, City, Price of the house
 
 Dataset Visualizer: Also includes a Jupyter Notebook (visualizer.ipynb) for Data analysis and preprocessing insights.
 
