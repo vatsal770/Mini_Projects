@@ -23,7 +23,7 @@ Passwords are stored at:
 ### 2. House Explorer & Price Predictor (Streamlit App)
 A Streamlit-based web application that:
 
-- Explores house listings from a dataset (filtered by city, BHK, area, and price).
+- Explores house listings from the dataset (filtered by city, BHK, area, and price).
 
 - Predicts house prices using Linear Regression based on user input.
 
