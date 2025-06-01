@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## Sample of the App:
 
-![Sample App Screenshot](Sample_App.png)
+![Sample App Screenshot](Sample Images/Sample_App_Explorer.png)
 
 ---
 
